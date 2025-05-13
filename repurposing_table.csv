@@ -1,0 +1,9 @@
+,from,to,Action,Cost for,min cost (Millions GBP),max cost (Millions GBP),min capacity (MW),max capacity (MW),note,min unit cost (millions GBP/MW),max unit cost (millions GBP/MW),Details,Unnamed: 12
+10,Fossil Hard coal,Biomass,repurpose,per MW,,1.6,500.0,2000.0,output,0.0025,4.38512,,
+11,Fossil Hard coal,Nuclear,repurpose,per MW,,5.0,300.0,1000.0,output,0.05,7.24352,,
+12,Fossil Hard coal,Natural Gas Conversion,repurpose,per MW,,1.0,500.0,1000.0,output,0.02,2.71152,,
+13,Fossil Gas,Hydrogen (Blue Hydrogen),repurpose,per MW,,2.0,100.0,500.0,of hydrogen production,0.02,0.0,,
+14,Fossil Gas,Hydrogen (Green Hydrogen),repurpose,per MW,,4.0,50.0,200.0,of hydrogen production,0.25,0.0,,
+15,Fossil Oil,Biomass,repurpose,per MW,,1.6,230.0,365.0,output,0.0822,3.90464,,examples
+16,Gas Plants,Carbon Capture and Storage (CCS),repurpose,per MW,,2.5,250.0,1300.0,output,0.0385,0.0,,(Value in t /0.4)/8760  - 7%
+17,Coal Plant,Ammonia Production,repurpose,per MW,,,90.0,685.0,output,0.0584,0.0,,(value in t*8)/8760

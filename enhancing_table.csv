@@ -1,0 +1,7 @@
+,technology,Action,Cost for,min cost (Millions GBP),max cost (Millions GBP),min capacity (MW),max capacity (MW),note,min unit cost (millions GBP/MW),max unit cost (millions GBP/MW),Details,Unnamed: 12
+4,Solar Panel,enhance,per MW,,0.5,10.0,500.0,per site,0.8,0.85312,,
+5,Hydro Run-of-river and poundage,enhance,per MW,,1.0,,,,,10.42112,"e.g., turbine upgrades, flow optimization",
+6,Nuclear,enhance,per MW,,2.0,,,,,5.11296,,
+7,Wind Offshore,enhance,per MW,,4.5,50.0,200.0,per wind farm,1.3,3.78112,"e.g., larger turbines, improved efficiency",
+8,Wind Onshore,enhance,per MW,,1.6,50.0,200.0,per wind farm,1.3,0.93568,"e.g., repowering, blade upgrades",
+9,Hydro Pumped Storage,enhance,per MW,,3.0,,,,,3.5232,"e.g., increased storage capacity, turbine upgrades",

@@ -1,0 +1,5 @@
+,technology,Action,Cost for,min cost (Millions GBP),max cost (Millions GBP),min capacity (MW),max capacity (MW),note,min unit cost (millions GBP/MW),max unit cost (millions GBP/MW),Details,Unnamed: 12
+0,Fossil Hard coal,decommission,per MW,,0.1,,,,,0.85232,,
+1,Fossil Oil,decommission,per MW,,0.1,,,,,0.37184,,
+2,Fossil Gas,decommission,per MW,,0.1,,,,,0.37184,,
+3,Biomass,decommission,per MW,,0.1,,,,,0.70656,,

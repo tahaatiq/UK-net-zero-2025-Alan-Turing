@@ -1,0 +1,7 @@
+,technology,Action,Cost for,min cost (Millions GBP),max cost (Millions GBP),min capacity (MW),max capacity (MW),note,min unit cost (millions GBP/MW),max unit cost (millions GBP/MW),Details,Unnamed: 12
+18,Hydro Run-of-river and poundage,build,per MW,,1.0,,,,,13.0264,"e.g., turbine upgrades, flow optimization",
+19,Nuclear,build,per MW,,2.0,,,,,6.3912,,
+20,Wind Offshore,build,per MW,,4.5,50.0,200.0,per wind farm,1.3,4.7264,"e.g., larger turbines, improved efficiency",
+21,Wind Onshore,build,per MW,,1.6,50.0,200.0,per wind farm,1.3,1.1696,"e.g., repowering, blade upgrades",
+22,Solar Panel,build,per MW,,0.5,10.0,500.0,per site,0.8,1.0664,,
+23,Hydro Pumped Storage,build,per MW,,3.0,,,,,4.404,"e.g., increased storage capacity, turbine upgrades",
